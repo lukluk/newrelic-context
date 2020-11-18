@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/jinzhu/gorm"
+	"github.com/lukluk/gorm"
 	newrelic "github.com/newrelic/go-agent"
 )
 
