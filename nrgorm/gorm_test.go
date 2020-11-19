@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
-	_ "github.com/jinzhu/gorm/dialects/sqlite"
 	"github.com/lukluk/gorm"
+	_ "github.com/lukluk/gorm/dialects/sqlite"
 	newrelic "github.com/newrelic/go-agent"
 	"github.com/smacker/newrelic-context/nrmock"
 )
