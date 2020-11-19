@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3d884f53-f2c9-4288-b066-684c47c7509e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +37,9 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="216" width="598" height="548" key="find.popup" timestamp="1605677834644">
+    <state x="421" y="216" width="598" height="548" key="find.popup" timestamp="1605747644837">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="421" y="216" width="598" height="548" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1605677834644" />
+    <state x="421" y="216" width="598" height="548" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1605747644837" />
   </component>
 </project>
