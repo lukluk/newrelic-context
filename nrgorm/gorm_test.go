@@ -4,10 +4,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/lukluk/gorm"
-	_ "github.com/lukluk/gorm/dialects/sqlite"
+	"github.com/kitabisa/gorm"
+	_ "github.com/kitabisa/gorm/dialects/sqlite"
 	newrelic "github.com/newrelic/go-agent"
-	"github.com/smacker/newrelic-context/nrmock"
+	"github.com/kitabisa/newrelic-context/nrmock"
 )
 
 type Model struct {

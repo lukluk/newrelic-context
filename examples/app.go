@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/smacker/newrelic-context"
+	"github.com/kitabisa/newrelic-context"
 	"log"
 	"net/http"
 )

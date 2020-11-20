@@ -3,9 +3,9 @@ package nrcontext
 import (
 	"context"
 
-	"github.com/lukluk/gorm"
-	"github.com/lukluk/newrelic-context/nrgorm"
-	"github.com/lukluk/newrelic-context/nrredis"
+	"github.com/kitabisa/gorm"
+	"github.com/kitabisa/newrelic-context/nrgorm"
+	"github.com/kitabisa/newrelic-context/nrredis"
 	"github.com/newrelic/go-agent"
 	redis "gopkg.in/redis.v5"
 )

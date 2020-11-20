@@ -6,7 +6,7 @@ import (
 
 	"github.com/alicebob/miniredis"
 	newrelic "github.com/newrelic/go-agent"
-	"github.com/smacker/newrelic-context/nrmock"
+	"github.com/kitabisa/newrelic-context/nrmock"
 	"gopkg.in/redis.v5"
 )
 
